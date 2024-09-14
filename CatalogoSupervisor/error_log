@@ -1,0 +1,8 @@
+[30-Aug-2023 22:07:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/wwtopm/public_html/TopMas/database.php on line 27
+[30-Aug-2023 22:07:19 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/wwtopm/public_html/TopMas/database.php on line 27
+[30-Aug-2023 22:09:02 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/wwtopm/public_html/TopMas/database.php on line 27
+[30-Aug-2023 22:09:02 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/wwtopm/public_html/TopMas/database.php on line 27
+[30-Aug-2023 22:09:08 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/wwtopm/public_html/TopMas/database.php on line 27
+[30-Aug-2023 22:09:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/wwtopm/public_html/TopMas/database.php on line 27
+[06-Sep-2023 00:05:16 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/wwtopm/public_html/TopMas/database.php on line 27
+[06-Sep-2023 00:05:16 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/wwtopm/public_html/TopMas/database.php on line 27

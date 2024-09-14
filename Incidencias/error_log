@@ -1,0 +1,8 @@
+[20-Aug-2024 23:23:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MysqlManager' not found in /home/wwtopm/public_html/TopMas/Incidencias/obtieneIncidencias.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wwtopm/public_html/TopMas/Incidencias/obtieneIncidencias.php on line 15
+[20-Aug-2024 23:25:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MysqlManager' not found in /home/wwtopm/public_html/TopMas/Incidencias/obtieneIncidencias.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wwtopm/public_html/TopMas/Incidencias/obtieneIncidencias.php on line 15

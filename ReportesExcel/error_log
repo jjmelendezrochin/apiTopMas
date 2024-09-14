@@ -1,0 +1,7 @@
+[14-Aug-2023 14:53:12 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wwtopm/public_html/TopMas/ReportesExcel/getReportesExcel.php on line 57
+[14-Aug-2023 14:53:18 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wwtopm/public_html/TopMas/ReportesExcel/getReportesExcel.php on line 57
+[14-Aug-2023 16:09:03 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wwtopm/public_html/TopMas/ReportesExcel/getReportesExcel.php on line 57
+[22-Aug-2023 12:20:31 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/wwtopm/public_html/TopMas/ReportesExcel/getReportesExcel.php on line 57
+[31-Aug-2023 21:29:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/wwtopm/public_html/TopMas/database.php on line 27
+[31-Aug-2023 21:29:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/wwtopm/public_html/TopMas/database.php on line 27
+[31-Aug-2023 21:29:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/wwtopm/public_html/TopMas/database.php on line 27

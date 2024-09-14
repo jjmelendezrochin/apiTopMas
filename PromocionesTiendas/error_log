@@ -1,0 +1,8 @@
+[31-Aug-2023 21:24:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/wwtopm/public_html/TopMas/database.php on line 27
+[31-Aug-2023 21:24:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/wwtopm/public_html/TopMas/database.php on line 27
+[31-Aug-2023 21:24:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/wwtopm/public_html/TopMas/database.php on line 27
+[31-Aug-2023 21:24:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/wwtopm/public_html/TopMas/database.php on line 27
+[31-Aug-2023 21:27:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/wwtopm/public_html/TopMas/database.php on line 27
+[11-Sep-2023 12:57:45 America/Mexico_City] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/wwtopm/public_html/TopMas/PromocionesTiendas/getPromocionesTiendasServicio.php on line 39
+[11-Sep-2023 12:58:58 America/Mexico_City] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/wwtopm/public_html/TopMas/PromocionesTiendas/getPromocionesTiendasServicio.php on line 39
+[11-Sep-2023 13:01:10 America/Mexico_City] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/wwtopm/public_html/TopMas/PromocionesTiendas/getPromocionesTiendasServicio.php on line 39
